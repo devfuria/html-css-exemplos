@@ -1,4 +1,4 @@
-Criando nosso primeiro HTML
+Criando um HTML de primeira qualidade
 ===
 
 A anos o site csszengarden lançou o desafio: a partir de um HTML de modelo bolar um design utilizando CSS.
