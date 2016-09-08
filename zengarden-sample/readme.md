@@ -1,10 +1,7 @@
-Criando um HTML de primeira qualidade
-===
+# http://www.csszengarden.com/
 
-A anos o site csszengarden lançou o desafio: a partir de um HTML de modelo bolar um design utilizando CSS.
+Cópia do arquiv http://www.csszengarden.com/examples/index.
 
-Aqui nós vamos nos focar apenas no HTML, o exercício é "pegar no tranco" como se monta um HTML.
-
-Leia o exercício na íntegra no [devfuria](http://www.devfuria.com.br/) na matéria abaixo:
+Leia a matéria
 
 http://www.devfuria.com.br/html-css/html-primeira-qualidade/
