@@ -1,6 +1,4 @@
-# http://www.csszengarden.com/
-
-Cópia do arquiv http://www.csszengarden.com/examples/index.
+Cópia do arquivo http://www.csszengarden.com/examples/index.
 
 Leia a matéria
 
