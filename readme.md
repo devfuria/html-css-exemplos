@@ -1,6 +1,5 @@
-# Exemplos de códigos em HTML e CSS
+# CSS Zen Garden
 
+Cópia do arquivo http://www.csszengarden.com/examples/index.
 
-- [zengarden-sample/](zengarden-sample/)
-
-[www.devfuria.com.br](http://www.devfuria.com.br/ "www.devfuria.com.br")
+Leia a matéria http://www.devfuria.com.br/html-css/html-primeira-qualidade/
